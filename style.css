@@ -49,7 +49,7 @@ body{
 }
 
 #btn{ 
-    background:linear-gradient(rgb(87, 165, 230),rgb(196, 162, 162));
+    background:linear-gradient(rgb(74, 142, 197),rgb(196, 162, 162));
     border-radius: 8px;
     cursor: pointer;
 }
