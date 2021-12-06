@@ -1,0 +1,59 @@
+body{
+    background-image: url(/img/4.7.2020_Planning\ for\ ICU.jpg);
+   background-repeat: no-repeat;
+   background-size: 1700px;
+   font-family: 'Catamaran' sans-serif;
+   font-family: 'Fruktur' cursive;
+   font-family: 'M PLUS 1 Code', sans-serif;
+   font-family: 'Merriweather'serif;
+   font-family: 'Mohave', sans-serif;
+   font-family: 'Oswald' sans-serif
+   
+}
+
+.wd{display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: auto;
+    
+}
+
+.wd{
+    border: solid rgba(17, 150, 190, 0.884);
+   width: 490px;
+   height: 460px;
+   border-radius: 5px;
+   margin-top: 100px; 
+   
+   
+ 
+}
+
+
+
+
+.text{ 
+    align-items: center;
+    margin-top: 40px;
+    color: rgb(126, 42, 42);
+    font-size: 18px;
+    margin: auto;
+}
+
+.selectd{
+    margin-top: 10px;
+    border-radius: 4px;
+    background:linear-gradient(rgb(87, 165, 230),rgb(196, 162, 162));
+    color: rgb(13, 6, 117);
+    cursor: pointer;
+}
+
+#btn{ 
+    background:linear-gradient(rgb(87, 165, 230),rgb(196, 162, 162));
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.more{
+    display: none;
+}
